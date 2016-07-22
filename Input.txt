@@ -1,0 +1,2 @@
+Hello this is a sample world example. We are checking if Boston Red Sox is being censored form the document. After 
+that we can have either Pepperoni Pizza or Cheese Piazza along with some beer
